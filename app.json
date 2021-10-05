@@ -1,6 +1,6 @@
 {
-    "name": "Google Translator Bot",
-    "description": "iam Google Translator Bot @pr0fess0r_99",
+    "name": "Telegram Google Translate Bot",
+    "description": "iam Telegram Google Translate Bot. Created by HariyonoRizki2",
     "keywords": [
         "Telegram",
         "Google",
@@ -8,15 +8,15 @@
         "Bot"
     ],
     "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Google-Translater-Bot",
+    "repository": "https://github.com/HariyonoRizki2/TGGoogleTranslateBot",
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From https://my.telegram.org/apps",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From https://my.telegram.org/apps",
             "value": ""
         },
         "BOT_TOKEN": {
