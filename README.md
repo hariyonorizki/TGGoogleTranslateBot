@@ -1,4 +1,4 @@
-# Telegram-Google-Translate-Bot
+# Telegram Google Translate Bot
 
 
   </a>
